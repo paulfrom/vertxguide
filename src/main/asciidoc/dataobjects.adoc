@@ -1,0 +1,21 @@
+= Cheatsheets
+
+[[Demo2]]
+== Demo2
+
+++++
+ usage:
+ <p>
+ </p>
+ User:liusonglin; Date:2017/12/18;ProjectName:vertxguide;
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[value]]`value`|`String`|-
+|[[yes]]`yes`|`String`|-
+|===
+
